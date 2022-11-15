@@ -4,4 +4,3 @@ yarn.lock
 package-lock.json
 src/.vuepress/.cache
 src/.vuepress/.temp
-dist/
